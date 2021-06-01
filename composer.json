@@ -3,7 +3,7 @@
   "type": "xenforo-extension",
   "description": "Detecting ad blocking in browser.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/marketplace-xenforo",
+  "homepage": "https://github.com/pkgstore",
   "keywords": [
     "xenforo",
     "adblock"
@@ -23,8 +23,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector/issues",
-    "source": "https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector"
+    "issues": "https://github.com/pkgstore/xenforo-ext-adblock-detector/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-adblock-detector"
   },
   "require": {
     "composer/installers": "~1.0"

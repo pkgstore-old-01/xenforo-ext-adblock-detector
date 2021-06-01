@@ -13,7 +13,7 @@
 
 ## Install
 
-1. [Загрузить](https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector/tags) архив с последней версией расширения.
+1. [Загрузить](https://github.com/pkgstore/xenforo-ext-adblock-detector/tags) архив с последней версией расширения.
 2. Распаковать содержимое архива в `/src/addons/Marketplace/ext_c08c5b33/`, сохраняя структуру директорий.
 3. Зайти в **AdminCP**, далее *Add-ons*, и установить необходимое расширение.
 3. Создать файл `ext.advert.min.js` в корне форума со следующим содержимым:
@@ -24,7 +24,7 @@
 
 ## Update
 
-1. [Загрузить](https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector/tags) архив с новой версией расширения.
+1. [Загрузить](https://github.com/pkgstore/xenforo-ext-adblock-detector/tags) архив с новой версией расширения.
 2. Распаковать содержимое архива в `/src/addons/Marketplace/ext_c08c5b33/`, сохраняя структуру директорий, заменяя существующие файлы и папки.
 3. Зайти в **AdminCP**, далее *Add-ons*, и обновить необходимое расширение.
 

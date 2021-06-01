@@ -5,8 +5,8 @@
   "version_id": 1000170,
   "version_string": "1.0.1",
   "dev": "z1729 Factory",
-  "dev_url": "https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector",
-  "support_url": "https://github.com/marketplace-xenforo/xenforo-ext-adblock-detector/issues",
+  "dev_url": "https://github.com/pkgstore/xenforo-ext-adblock-detector",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-adblock-detector/issues",
   "require": {
     "XF": [
       2010070,
