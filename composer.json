@@ -1,5 +1,5 @@
 {
-  "name": "marketplace/xenforo-ext-adblock-detector",
+  "name": "pkgstore/xenforo-ext-adblock-detector",
   "type": "xenforo-extension",
   "description": "Detecting ad blocking in browser.",
   "license": "GPL-3.0-or-later",
